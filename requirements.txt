@@ -2,4 +2,6 @@ streamlit
 numpy
 pandas
 tensorflow
-sklearn
+torch
+sentence-transformers
+
