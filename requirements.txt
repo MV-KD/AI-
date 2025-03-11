@@ -4,5 +4,6 @@ pandas
 tensorflow
 torch
 sentence-transformers
-pickle5
+
+
 
